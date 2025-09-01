@@ -32,33 +32,33 @@ This diverse dataset is ideal for multilingual sentiment analysis and NLP tasks.
 
 ## 🚀Insights & Findings
 1. Overall Sentiment Distribution
-  - Majority of reviews are Positive (47%)
-  - Negative reviews (25%) concentrated in apps with performance or UX issues
-  - Neutral reviews (28%) are often short or factual
+    - Majority of reviews are Positive (47%)
+    - Negative reviews (25%) concentrated in apps with performance or UX issues
+    - Neutral reviews (28%) are often short or factual
 2. Top Apps by Sentiment
-  - Positive: Khan Academy, Netflix, VLC, Google Drive and other entertainment apps
-  - Negative: Grammarly, Ebay, Microsoft Office and other. Often due to crashes or slow performance
+    - Positive: Khan Academy, Netflix, VLC, Google Drive and other entertainment apps
+    - Negative: Grammarly, Ebay, Microsoft Office and other. Often due to crashes or slow performance
 3. Sentiment by App Category
-  - Navigation & entertainment apps: High positive review rates
-  - Productivity apps: More negative reviews (technical issues, complexity)
+    - Navigation & entertainment apps: High positive review rates
+    - Productivity apps: More negative reviews (technical issues, complexity)
 4. Sentiment by Demographics
-  - Age 18–35: Not too many reviews
-  - Age >45: Frequently provide both positive and negative reviews
+    - Age 18–35: Not too many reviews
+    - Age >45: Frequently provide both positive and negative reviews
 5. Text Analysis
-  - Positive keywords: userfriendly, design, smooth
-  - Negative keywords: crashes, improvement, update
-  - Neutral keywords: better overall, good, interface
+    - Positive keywords: userfriendly, design, smooth
+    - Negative keywords: crashes, improvement, update
+    - Neutral keywords: better overall, good, interface
 
-🤖 AI Support Explanation
+## 🤖 AI Support Explanation
 This project leverages AI at multiple stages:
 1. Sentiment Classification
-  - IBM Watson automatically classifies each review.
-  - Enables scalable, automated sentiment analysis across thousands of reviews.
+    - IBM Watson automatically classifies each review.
+    - Enables scalable, automated sentiment analysis across thousands of reviews.
 2. Text Analysis & Keyword Extraction
-  - Python NLP libraries (CountVectorizer, WordCloud) extract frequent words and phrases.
-  - Highlights common feedback themes for actionable insights.
-  - Translate
+    - Python NLP libraries (CountVectorizer, WordCloud) extract frequent words and phrases.
+    - Highlights common feedback themes for actionable insights.
+    - Translate
 3. Visualization
-  - Matplotlib & Seaborn visualize sentiment distribution, top apps, and word frequency trends.
-  - Communicates patterns clearly for decision-making.
+    - Matplotlib & Seaborn visualize sentiment distribution, top apps, and word frequency trends.
+    - Communicates patterns clearly for decision-making.
 Value of AI: Automates processing of multilingual reviews, provides scalable insights, and bridges raw feedback to actionable recommendations.
